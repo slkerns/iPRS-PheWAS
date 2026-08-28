@@ -1,4 +1,3 @@
 # iPRS-PheWAS
 PheWAS of a PRS for chronic low-grade systemic inflammation (iPRS)
-This code was used for the iPRS pheWAS run on the All of Us Research Program platform and published in Jandu H., Olowofela A., Shuey M., Quade K., Tuftin B., Raffield L.M., Li U.,Cox N., Auer P.L., Kerns S.L. "Inherited Predisposition to Increased Systemic Inflammation Predicts a Broad Class of Disease Phenotypes". HGG Advances. 2026.
- 
+This code was used for the iPRS pheWAS run on the All of Us Research Program platform and published in Jandu H., Olowofela A., Shuey M., Quade K., Tuftin B., Raffield L.M., Li U.,Cox N., Auer P.L., Kerns S.L. "Inherited Predisposition to Increased Systemic Inflammation Predicts a Broad Class of Disease Phenotypes". HGG Advances. 2026. The underlying patient-level data are not publicly available because of restrictions related to participant privacy and institutional data-use agreements. Researchers interested in accessing the data should visit All of Us Research Program website.
